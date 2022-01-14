@@ -1,0 +1,11 @@
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My_Own_Notepad.Form1.resources
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My_Own_Notepad.Resources.resources
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.vbproj.GenerateResource.cache
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\bin\Debug\My Own Notepad.exe
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\bin\Debug\My Own Notepad.pdb
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\bin\Debug\My Own Notepad.xml
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.exe
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.xml
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.pdb
+C:\Users\tazam\source\repos\My Own Notepad\My Own Notepad\obj\Debug\My Own Notepad.vbproj.AssemblyReference.cache
